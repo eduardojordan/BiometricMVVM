@@ -5,8 +5,8 @@ BiometricSwiftUI is a simple practice project built with SwiftUI to explore biom
 <h1 style="font-size: 40px;">📸 Screenshots</h1>
 
 <p align="center">
-  <img src="https://github.com/eduardojordan/BiometricSwiftUI/blob/master/screenshot1.png?raw=true" width="200" hspace="10"/>
-  <img src="https://github.com/eduardojordan/BiometricSwiftUI/blob/master/screenshot2.png?raw=true" width="200" hspace="10"/>
+  <img src="https://github.com/eduardojordan/BiometricMVVM/blob/master/1.png?raw=true" width="200" hspace="10"/>
+  <img src="https://github.com/eduardojordan/BiometricMVVM/blob/master/2.png?raw=true" width="200" hspace="10"/>
 </p>
 
 <h2 style="font-size: 35px;">🚀 Features</h2>
